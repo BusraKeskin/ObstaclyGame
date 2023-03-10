@@ -4,7 +4,8 @@ _**Attention:** As soon as you touch the obstacles, their colors will change!_
 
 
 
-https://user-images.githubusercontent.com/18630252/224366146-0859366c-4d15-4fbc-baec-c9370bf3cbe9.mp4
+https://user-images.githubusercontent.com/18630252/224367456-8e96f8e3-7f36-44f4-81aa-29aaac6f9f0b.mp4
+
 
 
 ## Description
